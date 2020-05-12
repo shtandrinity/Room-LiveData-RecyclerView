@@ -15,6 +15,7 @@ public class Note {
 
     private int priority;
 
+
     public Note(String title, String description, int priority) {
         this.title = title;
         this.description = description;
